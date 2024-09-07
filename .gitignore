@@ -1,0 +1,4 @@
+dumpvcd/*.vcd
+venv
+dumptrace/*
+dumptrace_disasm/*
